@@ -25,3 +25,58 @@
     </footer>
 </body>
 </html> 
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #e60012;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+.logo {
+    width: 100px;
+}
+
+.subtitle {
+    font-size: 1.2rem;
+    margin-top: 10px;
+}
+
+.certificate {
+    background-color: white;
+    border: 2px solid #e60012;
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+}
+
+.name {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.program {
+    font-size: 1.2rem;
+    margin-top: 10px;
+}
+
+.date {
+    font-size: 1rem;
+    margin-top: 10px;
+}
+
+footer {
+    background-color: #e60012;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
